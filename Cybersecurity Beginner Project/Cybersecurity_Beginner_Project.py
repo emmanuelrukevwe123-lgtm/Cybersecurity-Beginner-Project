@@ -4,7 +4,7 @@
 # 3. Evaluate + Act
 # 4. Evaluate Results
 # 5. Please update as you go
-# 6. Have Fun as you View this
+# 6. Have Fun as you View this as a learning experience and not a test.
 
 import random
 
